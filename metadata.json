@@ -1,0 +1,5 @@
+{
+  "name": "LingoFlash AI",
+  "description": "An interactive bilingual flashcard system powered by Gemini AI to analyze translation accuracy and provide personalized learning feedback.",
+  "requestFramePermissions": []
+}
